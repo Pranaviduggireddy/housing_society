@@ -1,1 +1,4 @@
 # housing_society
+People living in modern housing societies bring a shared responsibility toward the communal facilities, which can include managing maintenance payouts, sending notices, visitor management, vendor management, introducing changes, etc. Nevertheless, it can be a challenging task since there are dozens of houses or multiple apartment buildings in a single society.
+
+In most cases, there is a dedicated residential committee responsible for overseeing everything and solving prevailing issues. However, it can be challenging for them to track down every resident to communicate updates, so a cloud-based solution is required. It can be in the form of a website or application that makes society management a more straightforward task. A comprehensive end-to-end society management app allows the management committee to send messages, and alerts, handle monetary issues, create & serve notices, conduct polls, etc. 
